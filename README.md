@@ -25,12 +25,6 @@ A lightweight, easy-to-use Single Page Application (SPA) routing library for Jav
 <script src="path/to/uroute.js"></script>
 ```
 
-### NPM
-
-```bash
-npm install uroute
-```
-
 ## Quick Start
 
 ```javascript
@@ -210,4 +204,4 @@ URoute relies on the HTML5 History API, which is supported in all modern browser
 
 ## License
 
-MIT © [Your Name]
+No License, Feel free to use
